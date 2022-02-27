@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admirable speech made by the Maior of Reading, upon the occasion of the late choice of a burgess for that town, June 28. 1654. With a true and impartial narrative of the whole proceedings thereupon. Wherein is discovered the designe of the said Maior, with the aldermen and priests of the said town, to deprive the inhabitants of their vote of chusing. Published by a well-wisher to the present government in the making good of former ingagements to defend the free born people of England in their laws and liberties.</title>
+            <author>Frewen, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84921</idno>
+            <idno type="STC">Wing F2200</idno>
+            <idno type="STC">Thomason E745_17</idno>
+            <idno type="STC">ESTC R207077</idno>
+            <idno type="EEBO-CITATION">99866149</idno>
+            <idno type="PROQUEST">99866149</idno>
+            <idno type="VID">118413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118413)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E745[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admirable speech made by the Maior of Reading, upon the occasion of the late choice of a burgess for that town, June 28. 1654. With a true and impartial narrative of the whole proceedings thereupon. Wherein is discovered the designe of the said Maior, with the aldermen and priests of the said town, to deprive the inhabitants of their vote of chusing. Published by a well-wisher to the present government in the making good of former ingagements to defend the free born people of England in their laws and liberties.</title>
+                  <author>Frewen, Henry.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reading (England) --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118413:1" rendition="simple:additions"/>
+            <p> An Admirable SPEECH Made by the Maior of READING, upon the occaſion of the late choice of a Burgeſs for that Town, JUNE 28. 1654. WITH A true and impartial NARRATIVE of the whole proceedings thereupon. Wherein is diſcovered the deſigne of the ſaid Maior, with the Aldermen and Prieſts of the ſaid Town, to deprive the Inhabitants of their vote of chuſing.</p>
+            <p>Publiſhed by a well-wiſher to the preſent Government in the making good of former ingagements to defend the free born people of ENGLAND in their Laws and Liber<g ref="char:EOLhyphen"/>ties.</p>
+            <p>Printed at <hi>LONDON,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118413:2"/>
+            <argument>
+               <p>
+                  <hi>THe Author hereof having been an eye and ear-witneſs of the late irregular and unjuſt proceedings of the Maior, Aldermen, and Prieſts of the ſaid Town of</hi> Reading, <hi>in their choice of a Burgeſs to ſerve in the approaching Par<g ref="char:EOLhyphen"/>liament; and meeting with divers falſe reports touching the ſame, tending to the diſhonour of the inhabitants of the Town afore ſaid, but finding no true account thereof given to pub<g ref="char:EOLhyphen"/>like view: Therefore, for ſatisfaction and information of the people, and for the love be bears to the Liberties of his native Country, (which are not a little concerned in this matter) the ſaid Author is induced to publiſh to the world an impar<g ref="char:EOLhyphen"/>tial Narrative of the whole buſineſs; which is as followeth.</hi>
+               </p>
+            </argument>
+            <p>THe Sheriff of the County having proclaimed the Writ from his Highneſs the Lord Protector for ſummoning a Parliament to meet at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> the third of <hi>September</hi> next, Mr. <hi>Frewen</hi> the Maior of <hi>Reading</hi> appointed Wedneſday the 28 of <hi>June</hi> laſt, at ten of the clock, for the inhabitants of the ſaid Town to meet in the Town-Hall, in order to the choice of a Burgeſs to ſerve in Parliament; and that at the day and hour aforeſaid, the Writ for choice ſhould be read. The people met accordingly.</p>
+            <p>Between nine and ten of the clock, the Maior and Aldermen withdrew themſelves in private (as did appear) to chuſe
+<pb facs="tcp:118413:2"/>
+               <pb n="2" facs="tcp:118413:3"/> a Parliament-man: For as ſoon as the Clock had ſtricken ten, his Worſhip with all his retinue came into open Court; which being full of the inhabitants, the Cryer proclaimed <hi>Silence;</hi> and then the Town-Clerk with an audible voice did read the Writ for choice of a Burgeſs as aforeſaid. Which being done, the Maior made a Speech to the people, ſuch a one as it was; however, it was not much unlike his actions. Which Speech (for the ſingu<g ref="char:EOLhyphen"/>larity thereof) I have here inſerted; and it is as followeth.</p>
+            <p>
+               <hi>Why d'yee hear me? here is a Writ directed to me, to chuſe a Burgeſs to ſerve in Parliament; and we have choſen Col.</hi> Hammond, <hi>and him we will have; and I will return the Writ for him.</hi>
+            </p>
+            <p>
+               <hi>What, right or wrong Mr. Maior?</hi> ſaid a Gentleman that ſtood by. <hi>I,</hi> (ſaid Mr. Maior) <hi>we have choſen him, and will return the Writ for him; and therefore you may go home a<g ref="char:EOLhyphen"/>gain,</hi> (ſaid he to the inhabitants.) <hi>Is not the Writ directed to us?</hi> (ſaid he meaning himſelf and Aldermen) <hi>and we have choſen Colonel</hi> Hammond, <hi>and we will have him.</hi>
+            </p>
+            <p>
+               <hi>But Mr. Maior</hi> (ſaid a Gentleman) <hi>the moſt conſiderable part of the Electors except againſt Colonel</hi> Hammond, <hi>and are here preſent, ready to publiſh to the world whom they have made choice of to ſerve them in Parliament,</hi> viz. <hi>Captain</hi> Caſtle, <hi>a man of conſcience, wiſdom and valour.</hi>
+            </p>
+            <p>Whereupon, there was a cry amongſt the chuſers, four or five ſeveral times, <hi>A Caſtle, a Caſtle;</hi> inſomuch that the oddes did clearly appear (to the impartial and indifferent ſtanders by) to be five for one for Captain <hi>Caſtle</hi> againſt Colonel <hi>Hammond.</hi>
+            </p>
+            <p>But the Maior ſtill ſtood it out, that the inhabitants had no power to chuſe a Burgeſs, and that the power did lie in himſelf and his Brethren the Aldermen. Whereupon the Electors of Captain <hi>Caſtle</hi> demanded, of the Maior to go to the pole; but
+<pb n="3" facs="tcp:118413:3"/> he refuſed; and preſently drew forth the inhabitants into a Field called the Forbury, (without any adjornment of the Court, which ſignified a diſolution thereof) and in the ſaid Field the difference remained for matter of number as before, on Captain <hi>Caſtle</hi>'s ſide, and the Electors again demanded of the Maior to go to the pole, and took witneſs thereof; but he refuſed again, ſaying, <hi>He would do as he pleaſed, he would return the Writ for Colonel Hammond;</hi> and ſo return'd into the Town-hall again with the people following of him, and then ſent forth the Bell-man (his common call or crier) to go about the ſtreets with his bell, cry<g ref="char:EOLhyphen"/>ing, <hi>All you that are for Colonel Hammond</hi> (to be a Parliament<g ref="char:EOLhyphen"/>man) <hi>muſt preſently appear at the Town-Hall.</hi> (For Mr. Maior is now ſitting to take your names.) The Maiors Officer (alſo) <hi>John Bartlet</hi> moſt induſtriouſly run about the ſtree<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſearching the corners thereof, and Ale-houſes, crying out, <hi>Who are you for, hoe! For Colonel Hammond,</hi> would ſome anſwer; but alas, we dare not, neither muſt we vote, becauſe we are not worth 200 <hi>l. That's falſe,</hi> (would the Maior Officers reply) <hi>you may vote for all that.</hi>
+            </p>
+            <p>And then demanding of another, <hi>Whom he was for,</hi> who ſaid, <hi>For Captain Caſtle; are you?</hi> (ſaid the Maiors Officer) <hi>you had beſt have a care what you do; for if you are not worth</hi> 200 l. <hi>you are not capable to vote.</hi>
+            </p>
+            <p>Thus did the Maiors Officers run about the ſtreets, two hours after the Writ for the choyce of a Burgeſs was read, and a clear election thereupon paſſed, as by the teſtimony of ſufficient witneſs may appear.</p>
+            <p>In the mean time the Maior (who ought to have been Judge of the truth of election) with ſome of his Brethren ſate in the Town-Hall to take the names of ſuch which his Bell-man and other Offi<g ref="char:EOLhyphen"/>cers ſent in out of the ſtreets and ale-houſes; and withal, Parſon <hi>Fowler</hi> ſtanding up above the people, in the Maiors preſence, vaunting as in a ſtage-play, and perſwading ſuch ſo ſent in, as a<g ref="char:EOLhyphen"/>foreſaid to <hi>ſubſcribe for Colonel Hammond.</hi> And when they had acted their part, the Maior departed the Town Hall, being neer two of the clock in the afternoon; whereas a clear choice had paſſed for Captain <hi>Caſtle,</hi> at ten in the morning.</p>
+            <pb n="4" facs="tcp:118413:4"/>
+            <p> Thus far have If declared the truth of things as acted by the Maior, and his brethren the Aldermen, with ſome few other Prieſt-ridden men, who in<g ref="char:EOLhyphen"/>deed have been ridden ſo hard, that even their under<g ref="char:EOLhyphen"/>ſtandings have been weakned thereby; ſo that any ingenious man may behold the face of folly (and envie) upon their actions, as by this Relation may appear.</p>
+            <p>Further, conſider the Maiors bold attempt upon the Liberties of the people, in going about to intro<g ref="char:EOLhyphen"/>duce that which muſt needs render the people of <hi>England</hi> as abſolute ſlaves as any under the Turks dominion, by denying them the choice of their Law<g ref="char:EOLhyphen"/>makers, directly contrary to the minde of his High<g ref="char:EOLhyphen"/>neſs the Lord Protector and his Councel, who have ſo far teſtified their tenderneſs of the Peoples Liber<g ref="char:EOLhyphen"/>ty in that reſpect, that they have enlarged the num<g ref="char:EOLhyphen"/>ber of chuſers in Counties, by making many capa<g ref="char:EOLhyphen"/>ble of choice, that were incapable heretofore.</p>
+            <p>What colour can the Maior ſhew for ſuch his pra<g ref="char:EOLhyphen"/>ctices, in running ſo great a hazard as the Fine of above <hi>1000l.</hi> to force the inhabitants of the ſaid Town out of their Liberties? Or how could he conceive, that ſuch irregular, fooliſh, and ridiculous ways and practices for the chuſing of a Burgeſs, ſhould be either honourable to himſelf, or acceptable to any wiſe man?</p>
+            <p>But certainly (as I ſaid before) the mindes and ſpi<g ref="char:EOLhyphen"/>rits of theſe men being ridden ſo much by the Prieſts, they are become barren and empty of all reaſon and underſtanding.</p>
+            <p>He who by the <hi>Inſtrument of Government</hi> was bound
+<pb n="5" facs="tcp:118413:4"/> to ſee the choice orderly and peaceably made, in ſtead thereof, made factions and ſidings amongſt the people, as if he had purpoſed to ſet them together by the ears: and the Prieſts, who would be counted the Miniſters of the Goſpel of peace, are commonly found to be the fomenters of ſtrifes and diviſions; and did ſo ſhew themſelves in this Election of a Bur<g ref="char:EOLhyphen"/>geſs.</p>
+            <p>Munday <hi>June</hi> 26. Parſon <hi>Ford</hi> publikely in his Pulpit (in a baſe diſgraceful manner) ſaid, that <hi>he heard that the inhabitants of the Town did intent to chuſe a man on the other ſide of the water,</hi> (mean<g ref="char:EOLhyphen"/>ing Captain <hi>Caſtle:) it's true,</hi> (ſaid <hi>Ford) he is fit to make up differences between men about hogs break<g ref="char:EOLhyphen"/>ing over, or to mend up the hedge or ditch: but if you chuſe ſuch,</hi> (ſaid he) <hi>then it will be</hi> Good<g ref="char:EOLhyphen"/>man Parliament-man, <hi>and</hi> Goodman Juſtice. Now if the pride and inſolencie of this Prieſt <hi>Ford</hi> be ſuch, that he dares publikely ſpeak in ſuch ſcorn and contempt of one of his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tectors Juſtices of the Peace, what would he not do, had he power?</p>
+            <p>Correſpondent whereunto, was the carriage of Prieſt <hi>Fowler,</hi> who in a diſgraceful manner called the Tradeſmen (inhabitants of the Town of <hi>Rea<g ref="char:EOLhyphen"/>ding) The Ragged Regiment,</hi> becauſe many of them came in Waſtcoats, and with their Aprons before them. Which language, how well it becomes a Meſſenger of Chriſt (as he and his brethren call themſelves) any ſober Chriſtian can judge. And indeed, 'twas a mercy, (if not a marvel) that ſuch lan<g ref="char:EOLhyphen"/>guage, at ſuch a time, from ſuch a man, amidſt a mul<g ref="char:EOLhyphen"/>titude, had not cauſed bloodſhed.</p>
+            <pb n="6" facs="tcp:118413:5"/>
+            <p> But theſe are they that have in all Ages embraced all opportunities of ſowing diſcord amongſt bre<g ref="char:EOLhyphen"/>thren, and who have been the incendiares, and even the bellows, to blow up ſuch ſparks, as have ſet whole Nations in a combuſtion. And it is to be feared, that they have ſome ſuch deſigne now, as when they would have disbanded the Army: And therefore (my dear Brethren and Country-men) have I penned this ſheet, to give thee warning of ſuch deſignes and deſigners, in the like caſe.</p>
+            <p>There are (as I hear) ſix Gentlemen of <hi>Reading (viz.</hi> Mr. <hi>Dean,</hi> Captain <hi>Curtis,</hi> Mr. <hi>Goad,</hi> Mr. <hi>Write,</hi> Captain <hi>Goddard,</hi> and Mr. <hi>Stockwel</hi>) employed by the inhabitants to repreſent the Caſe to his Highneſs the Lord Protector.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
